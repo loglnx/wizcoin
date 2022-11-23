@@ -26,4 +26,3 @@ Contribute
 ----------
 
 If you'd like to contribute to WizCoin, check out https://github.com/Rockabye/wizcoin
-test
