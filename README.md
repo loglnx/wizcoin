@@ -25,4 +25,4 @@ Here's some example code demonstrating how this module is used:
 Contribute
 ----------
 
-If you'd like to contribute to WizCoin, check out https://github.com/Rockabye/wizcoin
+If you'd like to contribute to WizCoin, check out https://github.com/loglnx/wizcoin
